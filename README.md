@@ -4,20 +4,6 @@ This repository contains a Power BI project focused on analyzing HR data, offeri
 
 ---
 
-## Data Fields
-
-The dataset includes various fields relevant to employee demographics and HR metrics:
-- **Employee Name**: Full name of the employee.
-- **Department**: The department where the employee works.
-- **Position**: Job title or position of the employee.
-- **Gender**: Gender identity of the employee.
-- **Age**: Employee’s age.
-- **Tenure**: Number of years the employee has been with the organization.
-- **Salary**: Salary of the employee.
-- **Hire Date**: Date the employee joined the organization.
-
----
-
 ## Measures and Calculations
 
 The *Measure Table* includes several DAX measures designed to highlight key HR metrics and trends within the organization. Below are the measures available in this report:
